@@ -1,6 +1,8 @@
 # uber-alert-chrome
 Quick bookmarklet turned into Chrome extension for m.uber.com
 
+![Chrome Uber Alert](https://raw.githubusercontent.com/steadystatic/uber-alert-chrome/master/screenshot-example.png)
+
 ## Why
 
 Sometimes you're busy working (or not) and can't hit Request Uber a
@@ -13,8 +15,6 @@ is available.
 - Download [uberalert.crx](https://github.com/steadystatic/uber-alert-chrome/raw/master/uberalert.crx)
 - Open [chrome://extensions](chrome://extensions) in Chrome, and drag in uberalert.crx. Allow it
 - Open a tab to [m.uber.com](http://m.uber.com). Click Uber Alert icon
-
-![Chrome Uber Alert](https://raw.githubusercontent.com/steadystatic/uber-alert-chrome/master/screenshot-example.png)
 
 Make sure your volume is turned up and listen for a car honk :)
 
