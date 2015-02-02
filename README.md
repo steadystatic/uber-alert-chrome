@@ -17,3 +17,9 @@ is available.
 ![Chrome Uber Alert](https://github.com/steadystatic/uber-alert-chrome/raw/master/screenshot-example.jpg)
 
 Make sure your volume is turned up and listen for a car honk :)
+
+## Make your own changes
+
+To make changes just edit bookmarklet.js and to build a new .crx file you'll need the package crxmake and signing it with a PEM file like this:
+
+crxmake --pack-extension=~/Downloads/uber-alert-chrome/uber-alert-chrome-ext  --extension-output=~/Downloads/uber-alert-chrome/uberalert.crx
