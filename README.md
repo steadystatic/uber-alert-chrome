@@ -12,6 +12,6 @@ is available.
 
 - Download [uberalert.crx](https://github.com/steadystatic/uber-alert-chrome/raw/master/uberalert.crx)
 - Open [chrome://extensions](chrome://extensions) in Chrome, and drag in uberalert.crx. Allow it
-- open a tab to [m.uber.com](http://m.uber.com). Click Uber Alert icon
+- Open a tab to [m.uber.com](http://m.uber.com). Click Uber Alert icon
 
 Make sure your volume is turned up and listen for a car honk :)
