@@ -15,3 +15,9 @@ is available.
 - Open a tab to [m.uber.com](http://m.uber.com). Click Uber Alert icon
 
 Make sure your volume is turned up and listen for a car honk :)
+
+## Make your own changes
+
+To make changes just edit bookmarklet.js and to build a new .crx file you'll need the package crxmake and signing it with a PEM file like this:
+
+crxmake --pack-extension=~/Downloads/uber-alert-chrome/uber-alert-chrome-ext  --extension-output=~/Downloads/uber-alert-chrome/uberalert.crx
