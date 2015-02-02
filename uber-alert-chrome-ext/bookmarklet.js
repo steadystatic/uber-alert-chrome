@@ -1,0 +1,1 @@
+uberCheck=setInterval(function(){if (document.getElementById('set-pickup-btn').className.indexOf("unavailable")===-1 && window.location.hostname === 'm.uber.com'){var audio=document.createElement("audio"); audio.src="//bit.ly/1CqZfVJ"; audio.addEventListener("ended", function(){document.removeChild(this);}, false); audio.play(); clearInterval(uberCheck);}}, 1000);
