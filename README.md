@@ -22,4 +22,7 @@ Make sure your volume is turned up and listen for a car honk :)
 
 To make changes just edit bookmarklet.js and to build a new .crx file you'll need the package crxmake and signing it with a PEM file like this:
 
+(grab crxmake) 
+gem install crxmake
+
 crxmake --pack-extension=~/Downloads/uber-alert-chrome/uber-alert-chrome-ext  --extension-output=~/Downloads/uber-alert-chrome/uberalert.crx
